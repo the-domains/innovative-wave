@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T18:42:42.040Z'
+datePublished: '2016-07-23T19:18:43.540Z'
 sourcePath: _posts/2016-04-15-the-worlds-most-beautiful-hotel-pool-views.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,8 @@ author:
   - name: '@mmeltrez'
     url: 'https://www.twitter.com/@mmeltrez'
     avatar: {}
-dateModified: '2016-07-23T18:42:39.047Z'
+via: {}
+dateModified: '2016-07-23T19:18:43.007Z'
 title: The World's Most Beautiful Hotel Pool Views
 app_links:
   - namespace: twitter
@@ -42,10 +43,9 @@ description: >-
   skyline shot of NYC, here are 18 of the sweetest hotel&hellip;
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The World's Most Beautiful Hotel Pool Views</h1><p>From an infinity pool on the African savannah to a rooftop number with a skyline shot of NYC, here are 18 of the sweetest hotel&amp;hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0e947140d59bed9fcf2eb93bbdd43d388790628.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0e947140d59bed9fcf2eb93bbdd43d388790628.jpg" /><h1>The World's Most Beautiful Hotel Pool Views</h1><p>From an infinity pool on the African savannah to a rooftop number with a skyline shot of NYC, here are 18 of the sweetest hotel&amp;hellip;</p></article>
